@@ -1,8 +1,8 @@
 # TP 02 PHP : Programmation Web 2 (2026/2027)
 
-- **Nom :** NOM
-- **Prénom :** PRENOM
-- **Groupe :** Gx
+- **Nom :** Naciri Ben Saghir
+- **Prénom :** Hibat-Allah
+- **Groupe :** Grp1
 - **Titre du TP :** TP 02 : PHP, variables, structures de contrôle, tableaux et formulaires
 
 ## Exécution
